@@ -1,0 +1,13 @@
+.zig-cache
+zig-out
+
+*.exe
+
+*.obj
+*.o
+
+*.lib
+*.a
+
+*.dll
+*.so
